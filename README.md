@@ -1,1 +1,1 @@
-# ai-reel-guide-static
+This is static fallback - just index.html, no build needed. Framework Preset: Other
